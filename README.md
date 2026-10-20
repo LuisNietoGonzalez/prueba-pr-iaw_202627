@@ -22,10 +22,15 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [PGH](files/PGH.md)
 * [RCU](files/rmcu.md)
 * [DLQ](files/DLQ.md)
+* [NAM](files/NAM.md)
 * [MGC](files/MGC.md)
-ramaluis
 * [LNG](files/LNG.md)
-
 * [DCG](files/DCG.md)
 * [JMG](files/JMG.md)
- main
+* [ARD](files/ARD.md)
+* [DCG](files/DCG.md)
+* [JMG](files/JMG.md)
+* [DPG](files/DPG.md)
+
+
+
